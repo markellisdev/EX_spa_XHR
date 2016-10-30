@@ -1,8 +1,10 @@
 {
-	"name": "Diplodocus",
-	"name": "Stegosauraus",
-	"name": "Ankylosaurus",
-	"name": "Triceratops",
-	"name": "Parasaurolophus",
-	"name": "Apatosaurus"
+	"name": [
+		"Diplodocus",
+		"Stegosauraus",
+		"Ankylosaurus",
+		"Triceratops",
+		"Parasaurolophus",
+		"Apatosaurus"
+	]
 }

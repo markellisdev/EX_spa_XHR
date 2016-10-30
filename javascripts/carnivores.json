@@ -1,8 +1,10 @@
 {
-	"name": "Velociraptor",
-	"name": "Allosauraus",
-	"name": "Spinosaurus",
-	"name": "Deinonychus",
-	"name": "Tyrannosaurus Rex",
-	"name": "Carnotaurus"
+	"name": [
+	"Velociraptor",
+	"Allosauraus",
+	"Spinosaurus",
+	"Deinonychus",
+	"Tyrannosaurus Rex",
+	"Carnotaurus"
+	]
 }
