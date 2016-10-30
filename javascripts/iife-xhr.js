@@ -1,11 +1,11 @@
 "use strict";
 
-function showCarnivores (carnivores) {
-
+function showCarnivores (carnivoreData) {
+	document.getElementsByClassName("vores").innerHTML = "motherfucker";
 }
 
-function showHerbivores () {
-
+function showHerbivores (herbivoreData) {
+	document.getElementsByClassName("vores").innerHTML = "this is tiring";
 }
 
 Predator.loadCarnivores(showCarnivores);
